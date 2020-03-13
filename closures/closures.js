@@ -6,8 +6,6 @@ var incrementar = (function() {
 	}
 })();
 
-
-
 console.log(incrementar());
 console.log(incrementar());
 console.log(incrementar());
